@@ -1,4 +1,4 @@
-<h3 align="center">Facial expression classification using local binary pattern And support vector machine methods</h3>
+<h3 align="center">Analysis of COVID-19 Cases in Indonesia</h3>
 
 <div align="center">
 
